@@ -21,7 +21,6 @@ Dataset description and how to use it.
 
 #### U-NET Vanilla & U-Net RED
 
-! Correct diagram ! 
 
 <img src="assets/UNET_BASE_DIAGRAM.png" width="1000px"/>
 

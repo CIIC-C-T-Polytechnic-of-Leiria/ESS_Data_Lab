@@ -5,7 +5,7 @@
 
 ---
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTiago1Ribeiro%2FEES_Data_Lab&label=Visitors&labelColor=%23d9e3f0&countColor=%23697689&style=plastic)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCIIC-C-T-Polytechnic-of-Leiria%2FESS_Data_Lab&countColor=%23263759&style=plastic)
 
 ### Description
 
@@ -47,7 +47,21 @@ QR code on video poiinting to paper?
 
 ### Citation
 
-bibtex
+```
+@article{,
+    doi       = {},
+    url       = {},
+    year      = {},
+    publisher = {},
+    volume    = {},
+    number    = {},
+    pages     = {},
+    author    = {},
+    title     = {},
+    journal   = {Journal}
+}
+
+```
 
 ### License 
 
@@ -55,11 +69,7 @@ Which license should we use?
 
 ### Acknowledgements
 
-MENTION IPL, CIIC, MARE, OTHERS?
-
-The authors gratefully acknowledge the financial support of [FCT - Foundation for Science and Technology (Portugal)](https://www.fct.pt/), through the research project ESS Datalab - spatio-temporal data models and algorithms for earth sciences, with reference MIT-EXPL-ACC-0057-2021.
-
-The authors gratefully acknowledge the financial support of This work is partially funded by [FCT - Fundação para a Ciência e a Tecnologia, I.P.](https://www.fct.pt/), through projects MIT-EXPL/ACC/0057/2021 and UIDB/04524/2020, and under the Stimulus for Scientific Employment - Institutional Support - CEECINST/00051/2018.
+This work is partially funded by [FCT - Fundação para a Ciência e a Tecnologia, I.P.](https://www.fct.pt/), through projects MIT-EXPL/ACC/0057/2021 and UIDB/04524/2020, and under the Stimulus for Scientific Employment - Institutional Support - CEECINST/00051/2018.
 
 ### Contact
 

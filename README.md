@@ -1,7 +1,7 @@
 ## Burned area semantic segmentation using convolutional networks on a novel dataset based on real-world videos
 ---
 
-<img src="assets/CIIC_logo.png" width="800px"/>
+<img src="assets/CIIC_logo.png" width="1000px"/>
 
 ---
 
@@ -17,17 +17,17 @@ Dataset description and how to use it.
 <img src="assets/Freq_Segmentacao_v3.png" width="1000px"/> 
 
 
-### Baseline Models
+### Models
 
 #### U-NET Base & U-Net RED
 
+<img src="assets/unet_base.png" width="1000px"/>
 
-<img src="assets/UNET_BASE_DIAGRAM.png" width="1000px"/>
+#### U-NET 3D 
 
-#### U-NET 3D  
+<img src="assets/unet_3d.png" width="1000px"/>
 
-
-### Baseline Segmentation Results 
+### Segmentation Results 
 
 
 <div align="center">
@@ -58,8 +58,6 @@ Dataset description and how to use it.
 
 ```
 [//]: <> (### License )
-
-
 
 ### Acknowledgements
 

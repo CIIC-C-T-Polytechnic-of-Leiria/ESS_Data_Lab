@@ -32,7 +32,7 @@ To be completed...
 <div align="center">
       <a href="https://www.youtube.com/watch?v=LvpJ7jXjSkw">
      <img 
-      src="assets/video_title_to_play.png" 
+      src="assets/play_video.png" 
       alt="U-Net Segmented Sequence and Original Dataset Video, side by side" 
       style="width:80%;">
       </a>

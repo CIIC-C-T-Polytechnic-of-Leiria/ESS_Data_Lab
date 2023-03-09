@@ -9,15 +9,15 @@
 
 ### Description
 
-Project descrition and goals.
+To be completed...
 
 ### Dataset
 
-Dataset description and how to use it.
+To be completed...
+
 <img src="assets/Freq_Segmentacao_v3.png" width="1000px"/> 
 
-
-### Models
+### Semantic Segmentation Models
 
 #### U-NET Base & U-Net RED
 
@@ -27,8 +27,7 @@ Dataset description and how to use it.
 
 <img src="assets/unet_3d.png" width="1000px"/>
 
-### Segmentation Results 
-
+### Results 
 
 <div align="center">
       <a href="https://www.youtube.com/watch?v=LvpJ7jXjSkw">

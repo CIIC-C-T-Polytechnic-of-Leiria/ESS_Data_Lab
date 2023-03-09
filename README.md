@@ -1,4 +1,4 @@
-## Evaluation of a new dataset for forest fire burned area semantic segmentation with fully convolutional networks
+## Burned area semantic segmentation using convolutional networks on a novel dataset based on real-world videos
 ---
 
 <img src="assets/CIIC_logo.png" width="800px"/>

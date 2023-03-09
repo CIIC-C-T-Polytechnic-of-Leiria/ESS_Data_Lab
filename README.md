@@ -1,5 +1,3 @@
-
-[//]: <> (## **FireUAV 🔥**: a RGB UAV video dataset for burned area segmentation and wildfire dynamics)
 ## Evaluation of a new dataset for forest fire burned area semantic segmentation with fully convolutional networks
 ---
 

@@ -19,14 +19,12 @@ Dataset description and how to use it.
 
 ### Baseline Models
 
-#### U-NET Vanilla & U-Net RED
+#### U-NET Base & U-Net RED
 
 
 <img src="assets/UNET_BASE_DIAGRAM.png" width="1000px"/>
 
-
 #### U-NET 3D  
-
 
 
 ### Baseline Segmentation Results 
@@ -41,8 +39,6 @@ Dataset description and how to use it.
       </a>
  </div>
 
-
-QR code on video poiinting to paper?
 
 ### Citation
 
@@ -61,10 +57,9 @@ QR code on video poiinting to paper?
 }
 
 ```
+[//]: <> (### License )
 
-### License 
 
-Which license should we use?
 
 ### Acknowledgements
 
@@ -73,5 +68,3 @@ This work is partially funded by [FCT - Fundação para a Ciência e a Tecnologi
 ### Contact
 
 If you have any questions, sugestions or want to contribute, feel free to contact me at <code>tiago.r.ribeiro@gmail.com</code>.
-
-ADD MORE/OTHER CONTACTS?

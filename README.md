@@ -1,2 +1,2 @@
-# ESS_Data_Lab
-Spatiotemporal Data Models and Algorithms for Earth and Environmental Sciences Project Repository
+# **ESS DataLab**
+Spatio-temporal Data Models and Algorithms for Earth and Environmental Sciences Project Repository

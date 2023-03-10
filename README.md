@@ -19,11 +19,11 @@ To be completed...
 
 ### Semantic Segmentation Models
 
-#### U-NET Base & U-Net RED
+#### U-NET Base & U-Net RED Architectures
 
 <img src="assets/unet_base.png" width="1000px"/>
 
-#### U-NET 3D 
+#### U-NET 3D Architecture
 
 <img src="assets/unet_3d.png" width="1000px"/>
 

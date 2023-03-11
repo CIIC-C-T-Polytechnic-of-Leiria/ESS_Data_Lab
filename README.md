@@ -64,6 +64,7 @@ video.</p>
       alt="U-Net Segmented Sequence and Original Dataset Video, side by side" 
       style="width:75%;">
       </a>
+      <p><strong>U-Net Base</strong> Segmented Sequence and Original Dataset Video, side by side</p>
  </div>
 
 [//]: <> (### Citation)

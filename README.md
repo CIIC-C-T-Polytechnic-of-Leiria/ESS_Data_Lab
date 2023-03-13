@@ -67,6 +67,10 @@ video.</p>
       <p><strong>U-Net Base</strong> Segmented Sequence and Original Dataset Video, side by side</p>
  </div>
 
+### To Do List
+ - Make code available
+ - Provide link to dataset
+
 [//]: <> (### Citation)
 
 [//]: <> (### License )

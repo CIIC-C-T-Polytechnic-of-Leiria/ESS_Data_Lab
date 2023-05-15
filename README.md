@@ -69,9 +69,6 @@ video.</p>
       <p><strong>U-Net Base</strong> Segmented Sequence and Original Dataset Video, side by side</p>
  </div>
 
-### To Do List
- - [ ] Make code available
-
 ### Dataset Citation
 ```
 @article{Ribeiro2023_BA_UAV,

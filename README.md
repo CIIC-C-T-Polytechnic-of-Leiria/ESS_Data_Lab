@@ -72,7 +72,18 @@ video.</p>
 ### To Do List
  - [ ] Make code available
 
-[//]: <> (### Citation)
+### Dataset Citation
+```
+@article{Ribeiro2023_BA_UAV,
+   author = {Tiago F. R. Ribeiro and Fernando Silva and Rogério Luís de C. Costa},
+   doi = {10.5281/ZENODO.7925620},
+   keywords = {UAV,burned area,drone,segmentation,spatiotemporal data,wildfire},
+   month = {5},
+   title = {BurnedAreaUAV Dataset (v1)},
+   url = {https://doi.org/10.5281/zenodo.7925620#.ZGIUhBS5Jss.mendeley},
+   year = {2023},
+}
+```
 
 [//]: <> (### License )
 

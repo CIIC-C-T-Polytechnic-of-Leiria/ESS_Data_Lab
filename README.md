@@ -93,7 +93,7 @@ To cite this work please use:
 ### Dataset Citation
 ```bibtex
 @misc{ba_uav_ribeiro_dataset,
-  author       = {Ribeiro, Tiago F. R. and Silva, Fernando and Moreira, José and Costa, Rogério Luís de C.},
+  author       = {Ribeiro, Tiago F. R. and Silva, Fernando and Moreira, Jos\'e and Costa, Ro\'erio Lu\'is de C.},
   title        = {BurnedAreaUAV Dataset (v1.1)},
   month        = may,
   year         = 2023,

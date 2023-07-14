@@ -9,7 +9,7 @@
 ---
 <div align="center">
 
- [Paper](https://www.sciencedirect.com/science/article/pii/S0924271623001831) | [Dataset](https://zenodo.org/record/7944963#.ZGYoxHbMIQ8) | [Article Citation](#article-citation) |  [Dataset Citation](#dataset-citation) | 
+ [Paper](https://www.sciencedirect.com/science/article/pii/S0924271623001831) | [Dataset](https://zenodo.org/record/7944963#.ZGYoxHbMIQ8) | [Paper Citation](#article-citation) |  [Dataset Citation](#dataset-citation)
 
 </div>
 
@@ -74,7 +74,7 @@ video.</p>
       <p><strong>U-Net Base</strong> Segmented Sequence and Original Dataset Video, side by side</p>
  </div>
 
-### Article Citation
+### Paper Citation
 
 To cite this work please use:
 ```bibtex

@@ -9,11 +9,11 @@
 ---
 <div align="center">
 
- [Paper](https://www.sciencedirect.com/science/article/pii/S0924271623001831) | [Dataset](https://zenodo.org/record/7944963#.ZGYoxHbMIQ8) | [Paper Citation](#article-citation) |  [Dataset Citation](#dataset-citation)
+ [Paper](https://www.sciencedirect.com/science/article/pii/S0924271623001831) | [Dataset](https://zenodo.org/record/7944963#.ZGYoxHbMIQ8) | [Paper Citation](#paper-citation) |  [Dataset Citation](#dataset-citation)
 
 </div>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCIIC-C-T-Polytechnic-of-Leiria%2FESS_Data_Lab&countColor=%23263759&style=plastic)
+<!--(url)(url)![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCIIC-C-T-Polytechnic-of-Leiria%2FESS_Data_Lab&countColor=%23263759&style=plastic) -->
 
 ### Description
 
